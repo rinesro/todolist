@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+=======
+# https://www.robotstxt.org/robotstxt.html
+>>>>>>> b416780 (Initial commit)
 User-agent: *
 Disallow:
